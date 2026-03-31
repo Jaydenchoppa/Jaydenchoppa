@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: My Portfolio
 description: My projects and work
+
+markdown: kramdown
+kramdown:
+  input: GFM
